@@ -1,0 +1,534 @@
+{
+  "maincategory": [
+    {
+      "name": "Male",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Female"
+    },
+    {
+      "id": 3,
+      "name": "Kids"
+    }
+  ],
+  "subcategory": [
+    {
+      "name": "Jeans",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "t-shirt"
+    },
+    {
+      "id": 4,
+      "name": "Trouer"
+    },
+    {
+      "name": "Tommy hilfiger",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "name": "polo"
+    }
+  ],
+  "brand": [
+    {
+      "id": 8,
+      "name": "Bipin kumar",
+      "username": "Bipin kumar",
+      "email": "bipinkumararsandih@gmail.com",
+      "phone": "6200486684",
+      "password": "bipin123",
+      "addressline1": "AT- ARSANDIH,P.O-AMARPUR,P.S-BIHPUR,DIST-BHAGALPUR BIHAR 853201",
+      "addressline2": "shop",
+      "addressline3": "AT- ARSANDIH,P.O-AMARPUR,P.S-BIHPUR,DIST-BHAGALPUR BIHAR 853201",
+      "pin": "853201",
+      "city": "BHAGALPUR",
+      "state": "Bihar",
+      "pic": "p77.jpeg",
+      "role": "User"
+    },
+    {
+      "id": 9,
+      "name": "Ravi kumar",
+      "username": "Ravikumar",
+      "email": "kravinirvi@gmail.com",
+      "phone": "6200486684",
+      "password": "nirvi123",
+      "addressline1": "AT- ARSANDIH,P.O-AMARPUR,P.S-BIHPUR,DIST-BHAGALPUR BIHAR 853201",
+      "addressline2": "shop",
+      "addressline3": "AT- ARSANDIH,P.O-AMARPUR,P.S-BIHPUR,DIST-BHAGALPUR BIHAR 853201",
+      "pin": "853201",
+      "city": "BHAGALPUR",
+      "state": "Bihar",
+      "pic": "p9.jpg",
+      "role": "User"
+    },
+    {
+      "id": 10,
+      "name": "bipin kumar",
+      "username": "ravikumar",
+      "email": "bipinkumararsandih@gmail.com",
+      "phone": "6200486684",
+      "password": "12345",
+      "addressline1": "AT- ARSANDIH,P.O-AMARPUR,P.S-BIHPUR,DIST-BHAGALPUR BIHAR 853201",
+      "addressline2": "shop",
+      "addressline3": "AT- ARSANDIH,P.O-AMARPUR,P.S-BIHPUR,DIST-BHAGALPUR BIHAR 853201",
+      "pin": "853201",
+      "city": "BHAGALPUR",
+      "state": "Bihar",
+      "pic": "p77.jpeg",
+      "role": "User"
+    }
+  ],
+  "product": [
+    {
+      "id": 0,
+      "name": "Kids Jeans Slim Fit",
+      "maincategory": "Kids",
+      "subcategory": "Jeans",
+      "brand": "Mufti",
+      "color": "Blue",
+      "size": "26",
+      "baseprice": 2500,
+      "discount": 45,
+      "finalprice": 1375,
+      "stock": "Out Of Stock",
+      "pic1": "p62.jpg",
+      "pic2": "p61.jpg",
+      "pic3": "p57.jpg",
+      "pic4": "p56.jpg"
+    },
+    {
+      "id": 1,
+      "name": "Male Jeans Slim Fit Mufti",
+      "maincategory": "Male",
+      "subcategory": "Jeans",
+      "brand": "Mufti",
+      "color": "Black",
+      "size": "36",
+      "baseprice": 4560,
+      "discount": 45,
+      "finalprice": 2508,
+      "stock": "In Stock",
+      "description": "",
+      "pic1": "p5.jpg",
+      "pic2": "p2.jpg",
+      "pic3": "p1.jpg",
+      "pic4": "p7.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Female Tshirt Kucci",
+      "maincategory": "Female",
+      "subcategory": "Tshirt",
+      "brand": "Gucci",
+      "color": "White",
+      "size": "28",
+      "baseprice": 8500,
+      "discount": 25,
+      "finalprice": 6375,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p23.jpg",
+      "pic2": "p28.jpg",
+      "pic3": "p22.jpg",
+      "pic4": "p19.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Male jeans Adidas",
+      "maincategory": "Male",
+      "subcategory": "Jeans",
+      "brand": "Adidas",
+      "color": "black",
+      "size": "36",
+      "baseprice": 4852,
+      "discount": 70,
+      "finalprice": 1455,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p2.jpg",
+      "pic2": "p30.jpg",
+      "pic3": "p16.jpg",
+      "pic4": "p44.jpg"
+    },
+    {
+      "id": 5,
+      "name": "polo",
+      "maincategory": "Female",
+      "subcategory": "Jeans",
+      "brand": "Adidas",
+      "color": "Blue",
+      "size": "30",
+      "baseprice": 4500,
+      "discount": 45,
+      "finalprice": 2475,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p6.jpg",
+      "pic2": "p7.jpg",
+      "pic3": "p9.jpg",
+      "pic4": "p19.jpg"
+    },
+    {
+      "name": "Sparkey",
+      "maincategory": "Female",
+      "subcategory": "Jeans",
+      "brand": "Polo",
+      "color": "Blue",
+      "size": "30",
+      "baseprice": 6500,
+      "discount": 34,
+      "finalprice": 4290,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p32.jpg",
+      "pic2": "p47.jpg",
+      "pic3": "p9.jpg",
+      "pic4": "p6.jpg",
+      "id": 7
+    },
+    {
+      "name": "Kinds Cloths slip fit ",
+      "maincategory": "kids",
+      "subcategory": "t-shirt",
+      "brand": "Polo",
+      "color": "Blue",
+      "size": "lg",
+      "baseprice": 18100,
+      "discount": 90,
+      "finalprice": 1810,
+      "stock": "Out Of Stock",
+      "description": "This is Sample Product",
+      "pic1": "p4.jpg",
+      "pic2": "p14.jpg",
+      "pic3": "p40.jpg",
+      "pic4": "p42.jpg",
+      "id": 8
+    }
+  ],
+  "user": [
+    {
+      "id": 0
+    }
+  ],
+  "cart": [
+    {
+      "id": 0
+    }
+  ],
+  "wishlist": [
+    {
+      "id": 0
+    },
+    {
+      "productid": 5,
+      "userid": "8",
+      "name": "polo",
+      "color": "Blue",
+      "size": "30",
+      "price": 2475,
+      "pic": "p6.jpg",
+      "id": 2
+    },
+    {
+      "productid": 4,
+      "userid": "8",
+      "name": "Male jeans Adidas",
+      "color": "black",
+      "size": "36",
+      "price": 1455,
+      "pic": "p2.jpg",
+      "id": 3
+    }
+  ],
+  "checkout": [
+    {
+      "id": 0
+    },
+    {
+      "userid": "8",
+      "paymentmode": "NetBanking",
+      "orderstatus": "Delivered",
+      "paymentstatus": "Done",
+      "time": "2023-01-18T14:35:46.116Z",
+      "totalAmount": 26695,
+      "shippingAmount": 0,
+      "finalAmount": 26695,
+      "products": [
+        {
+          "productid": 0,
+          "userid": "8",
+          "name": "Kids Jeans Slim Fit",
+          "color": "Blue",
+          "size": "26",
+          "price": 1375,
+          "qty": 1,
+          "total": 1375,
+          "pic": "p62.jpg",
+          "id": 1
+        },
+        {
+          "productid": 1,
+          "userid": "8",
+          "name": "Male Jeans Slim Fit Mufti",
+          "color": "Black",
+          "size": "36",
+          "price": 2508,
+          "qty": 5,
+          "total": 12540,
+          "pic": "p5.jpg",
+          "id": 2
+        },
+        {
+          "productid": 5,
+          "userid": "8",
+          "name": "polo",
+          "color": "Blue",
+          "size": "30",
+          "price": 2475,
+          "qty": 1,
+          "total": 2475,
+          "pic": "p6.jpg",
+          "id": 4
+        },
+        {
+          "productid": 4,
+          "userid": "8",
+          "name": "Male jeans Adidas",
+          "color": "black",
+          "size": "36",
+          "price": 1455,
+          "qty": 1,
+          "total": 1455,
+          "pic": "p2.jpg",
+          "id": 6
+        },
+        {
+          "productid": 5,
+          "userid": "8",
+          "name": "polo",
+          "color": "Blue",
+          "size": "30",
+          "price": 2475,
+          "qty": 1,
+          "total": 2475,
+          "pic": "p6.jpg",
+          "id": 7
+        },
+        {
+          "productid": 3,
+          "userid": "8",
+          "name": "Female Tshirt Kucci",
+          "color": "White",
+          "size": "28",
+          "price": 6375,
+          "qty": 1,
+          "total": 6375,
+          "pic": "p23.jpg",
+          "id": 8
+        }
+      ],
+      "id": 1
+    },
+    {
+      "userid": "8",
+      "paymentmode": "COD",
+      "orderstatus": "Order Placed",
+      "paymentstatus": "Pending",
+      "time": "2023-01-19T04:27:05.802Z",
+      "totalAmount": 26695,
+      "shippingAmount": 0,
+      "finalAmount": 26695,
+      "products": [
+        {
+          "productid": 0,
+          "userid": "8",
+          "name": "Kids Jeans Slim Fit",
+          "color": "Blue",
+          "size": "26",
+          "price": 1375,
+          "qty": 1,
+          "total": 1375,
+          "pic": "p62.jpg",
+          "id": 1
+        },
+        {
+          "productid": 1,
+          "userid": "8",
+          "name": "Male Jeans Slim Fit Mufti",
+          "color": "Black",
+          "size": "36",
+          "price": 2508,
+          "qty": 5,
+          "total": 12540,
+          "pic": "p5.jpg",
+          "id": 2
+        },
+        {
+          "productid": 5,
+          "userid": "8",
+          "name": "polo",
+          "color": "Blue",
+          "size": "30",
+          "price": 2475,
+          "qty": 1,
+          "total": 2475,
+          "pic": "p6.jpg",
+          "id": 4
+        },
+        {
+          "productid": 4,
+          "userid": "8",
+          "name": "Male jeans Adidas",
+          "color": "black",
+          "size": "36",
+          "price": 1455,
+          "qty": 1,
+          "total": 1455,
+          "pic": "p2.jpg",
+          "id": 6
+        },
+        {
+          "productid": 5,
+          "userid": "8",
+          "name": "polo",
+          "color": "Blue",
+          "size": "30",
+          "price": 2475,
+          "qty": 1,
+          "total": 2475,
+          "pic": "p6.jpg",
+          "id": 7
+        },
+        {
+          "productid": 3,
+          "userid": "8",
+          "name": "Female Tshirt Kucci",
+          "color": "White",
+          "size": "28",
+          "price": 6375,
+          "qty": 1,
+          "total": 6375,
+          "pic": "p23.jpg",
+          "id": 8
+        }
+      ],
+      "id": 2
+    },
+    {
+      "userid": "8",
+      "paymentmode": "COD",
+      "orderstatus": "Order Placed",
+      "paymentstatus": "Pending",
+      "time": "2023-01-20T10:53:54.070Z",
+      "totalAmount": 8850,
+      "shippingAmount": 0,
+      "finalAmount": 8850,
+      "products": [
+        {
+          "productid": 3,
+          "userid": "8",
+          "name": "Female Tshirt Kucci",
+          "color": "White",
+          "size": "28",
+          "price": 6375,
+          "qty": 1,
+          "total": 6375,
+          "pic": "p23.jpg",
+          "id": 8
+        },
+        {
+          "productid": 5,
+          "userid": "8",
+          "name": "polo",
+          "color": "Blue",
+          "size": "30",
+          "price": 2475,
+          "qty": 1,
+          "total": 2475,
+          "pic": "p6.jpg",
+          "id": 9
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "contact": [
+    {
+      "id": 0
+    },
+    {
+      "name": "Bipin kumar",
+      "email": "bipinkumararsandih@gmail.com ",
+      "phone": "6200486684",
+      "subject": "order",
+      "message": "hello Bipin",
+      "status": "Active",
+      "time": "2023-01-19T14:27:17.552Z",
+      "id": 1
+    },
+    {
+      "name": "Bipin kumar",
+      "email": "bipinkumararsandih@gmail.com ",
+      "phone": "6200486684",
+      "subject": "order",
+      "message": "Hello Bipin",
+      "status": "Active",
+      "time": "2023-01-19T14:28:39.267Z",
+      "id": 2
+    },
+    {
+      "name": "Bipin kumar",
+      "email": "bipinkumararsandih@gmail.com ",
+      "phone": "6200486684",
+      "subject": "order",
+      "message": "dhasvhdbhz",
+      "status": "Done",
+      "time": "2023-01-20T10:52:56.977Z",
+      "id": 3
+    }
+  ],
+  "newslatter": [
+    {
+      "id": 0
+    },
+    {
+      "email": "bipinkumararsandih@gmail.com",
+      "id": 1
+    },
+    {
+      "email": "bipinkumararsandih@gmail.com",
+      "id": 2
+    },
+    {
+      "email": "bipinkumararsandih@gmail.com",
+      "id": 3
+    },
+    {
+      "email": "bipinkumararsandih@gmail.com",
+      "id": 4
+    },
+    {
+      "email": "bipinkumararsandih@gmail.com",
+      "id": 5
+    },
+    {
+      "email": "bipinkumararsandih@gmail.com",
+      "id": 6
+    },
+    {
+      "email": "bipinkumararsandih@gmail.com",
+      "id": 7
+    },
+    {
+      "email": "bipinkumararsandih@gmail.com",
+      "id": 8
+    }
+  ]
+}
